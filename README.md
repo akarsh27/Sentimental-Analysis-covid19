@@ -3,9 +3,13 @@ In this project, we use a dataset consisting of the data, related to tweets from
 
 The steps are as followed,
 1)importing the dataset 
+
 2)preprocessing and preparing our dataset for sentimental analysis
+
 3)visualizing most common words using a bar chart
+
 4)NLTK module to produce polarity scores for each tweet  
+
 5)visualize results of our analysis using the line chart
 
 dataset used https://raw.githubusercontent.com/gabrielpreda/covid-19-tweets/master/covid19_tweets.csv
